@@ -15,13 +15,13 @@ import org.junit.runners.Parameterized.Parameters;
 @RunWith(Parameterized.class)
 public class CommissionTest {
 	private int lock, stock,barrel;
-	private double pay;
+	private String pay;
 
 	@Before
 	public void setUp() throws Exception {
 	}
 	
-	public CommissionTest(int lock, int stock, int barrel, double pay){
+	public CommissionTest(int lock, int stock, int barrel, String pay){
 		this.lock = lock;
 		this.stock = stock;
 		this.barrel = barrel;
@@ -32,9 +32,12 @@ public class CommissionTest {
 	public static Collection<Object[]>getData(){
 		return Arrays.asList(
 				new Object[][]{
-					{0,0,0,"0"},
-					{71,1,1,"641"}, 
-					{ 10, 10, 10, "100" },
+					{0,0,0,"0.0"},
+					{1,1,1,"10.0"}, 
+					{ 2,  1,  1,  "14.5" },
+					{ 10, 10, 10, "100.0" },
+					{10,20,30,"220.0"},
+					{20,30,40,"420.0"},
 				});
 	}
 	@After
