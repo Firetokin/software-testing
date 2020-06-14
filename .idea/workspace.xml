@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c1028ff-550f-41b1-b4d7-6e0d01fe4e58" name="Default Changelist" comment="实验3">
-      <change afterPath="$PROJECT_DIR$/target/classes/com/tokin/task03/PhoneBill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/tokin/task03/PhoneBillTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/电话账单测试用例.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9c1028ff-550f-41b1-b4d7-6e0d01fe4e58" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-324" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -337,7 +324,7 @@
       <workItem from="1592094834088" duration="10066000" />
       <workItem from="1592105701777" duration="216000" />
       <workItem from="1592105938749" duration="1316000" />
-      <workItem from="1592114971950" duration="6823000" />
+      <workItem from="1592114971950" duration="7080000" />
     </task>
     <task id="LOCAL-00001" summary="修改实验1、2">
       <created>1592104190072</created>
@@ -360,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592124404042</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="实验3">
+      <created>1592124597814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592124597814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -396,12 +390,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40362000" />
+    <option name="totallyTimeSpent" value="40619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27493262" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27493262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -414,10 +408,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49865228" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49865228" visible="true" weight="0.32859176" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013477" side_tool="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013477" side_tool="true" weight="0.33001423" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.33380482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -685,9 +679,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
